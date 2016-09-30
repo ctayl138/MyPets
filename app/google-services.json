@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "701517585133",
+    "project_id": "firebase-mypets"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701517585133:android:d611cc80ff071d16",
+        "android_client_info": {
+          "package_name": "com.team.pet.mypets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701517585133-708705b0ofct67n21cadfqoaus8iql84.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.team.pet.mypets",
+            "certificate_hash": "8E61BCF9504213AA11C0FC00029548C42D045BC8"
+          }
+        },
+        {
+          "client_id": "701517585133-266k8bqi9cebfhl78mfajptdjrro72sg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6ZLtsr4f-3Y9A199vw74ofy8E1GWFMtQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
